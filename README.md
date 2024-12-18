@@ -17,6 +17,7 @@ Software Engineering student passionate about learning and exploring new technol
   <img alt="stats" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight"/>
   <img alt="top langs" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmerino&layout=compact&theme=tokyonight"/>
 </div>
+
 ## 🌐 Connect with me
 <a href="https://www.linkedin.com/in/josue-merino-calderon-52639510a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
