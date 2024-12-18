@@ -1,4 +1,4 @@
-<h2 align="center">Josue Merino</h2>
+<h2 align="center">Josue Merino 🐐</h2>
 <h4 align="center">
 Software Engineering student passionate about learning and exploring new technologies. Currently diving into Web Development, Mobile Applications, and Cyber Security.
 </h4>
@@ -9,13 +9,14 @@ Software Engineering student passionate about learning and exploring new technol
 
 🇪🇨 **Student** at the [Universidad de las Fuerzas Armadas ESPE](https://www.espe.edu.ec/). 
 
-📱 **Currently working on** an [Android App using Flutter and the Marvel API](#). 
+📱 **Currently working on** Mobile Applications. 
 
 🎓 **Focused on** building secure, scalable applications and gaining experience in Software Architecture.
 
-<img alt="stats" style="width: 46%;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight"/>
-<img alt="top langs" style="width: 46%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmerino&layout=compact&theme=tokyonight"/>  
-
+<div align="center">
+  <img alt="stats" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight"/>
+  <img alt="top langs" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmerino&layout=compact&theme=tokyonight"/>
+</div>
 ## 🌐 Connect with me
 <a href="https://www.linkedin.com/in/josue-merino-calderon-52639510a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -48,7 +49,7 @@ Software Engineering student passionate about learning and exploring new technol
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kali-linux" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />
 </p>
 
 
