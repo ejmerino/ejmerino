@@ -57,4 +57,4 @@ Software Engineering student passionate about learning and exploring new technol
 </p>
 
 
-<h4 align="center">⬇️ Check out my main projects below ⬇️</h4>
+<h4 align="center">⬇️ Check out my projects ⬇️</h4>
