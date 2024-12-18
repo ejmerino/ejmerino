@@ -25,6 +25,9 @@ Software Engineering student passionate about learning and exploring new technol
 <a href="https://x.com/JosMC_10" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 </a>
+<a href="https://www.instagram.com/josuemerinocalderon/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twitter" height="30" width="40" />
+</a>
 
 ## 🛠️ Languages and Tools
 
