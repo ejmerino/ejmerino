@@ -1,4 +1,4 @@
-<h2 align="center">Josue Merino 🐐</h2>
+<h2 align="center">Josue Merino Calderon 🐐</h2>
 <h4 align="center">
 Software Engineering student passionate about learning and exploring new technologies. Currently diving into Web Development, Mobile Applications, and Cyber Security.
 </h4>
