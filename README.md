@@ -52,7 +52,8 @@ Software Engineering student passionate about learning and exploring new technol
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kali-linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </p>
 
 
