@@ -1,11 +1,17 @@
 <h2 align="center">Josue Merino Calderon 🐐</h2>
-<h4 align="center">
-Software Engineering student passionate about learning and exploring new technologies. Currently diving into Web Development, Mobile Applications, and Cyber Security.
-</h4>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josue&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Portfolio-%E2%9C%94-brightgreen" alt="portfolio" />
+  <img src="https://img.shields.io/github/last-commit/ejmerino/ejmerino" alt="last commit" />
+  <img src="https://img.shields.io/badge/Location-Quito,%20Ecuador-%23f9a825" alt="location" />
+  <img src="https://img.shields.io/badge/Software%20Engineering%20Student-%23ff8a00" alt="software engineering student" />
 </p>
+<h4 align="center">
+I am a committed and passionate student with a strong interest in cybersecurity, software quality assurance, and web and mobile application development. My experience in gathering requirements, managing multimedia, and creating custom resources for my projects has allowed me to develop valuable skills in research, problem solving, and collaboration. I look for opportunities to enter the world of work and develop both personally and professionally, contributing significantly to a dynamic team. My ability to communicate effectively and my focus on customer service allow me to genuinely connect with people and solve problems efficiently. My enthusiasm, positive attitude and willingness to help make me an ideal candidate for projects that require creativity and energy. I am open to exploring different fields and willing to work hard to achieve my professional goals.
+</h4>
+
+
+
 
 🇪🇨 **Student** at the [Universidad de las Fuerzas Armadas ESPE](https://www.espe.edu.ec/). 
 
@@ -14,8 +20,8 @@ Software Engineering student passionate about learning and exploring new technol
 🎓 **Focused on** building secure, scalable applications and gaining experience in Software Architecture.
 
 <div align="center">
-  <img alt="stats" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight"/>
-  <img alt="top langs" style="width: 46%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmerino&layout=compact&theme=tokyonight"/>
+  <img alt="stats" style="width: 48%; display: inline-block; border-radius: 8px; border: 2px solid #333;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true"/>
+  <img alt="top langs" style="width: 48%; display: inline-block; border-radius: 8px; border: 2px solid #333;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejmerino&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </div>
 
 ## 🌐 Connect with me
@@ -56,6 +62,5 @@ Software Engineering student passionate about learning and exploring new technol
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
 </p>
-
 
 <h4 align="center">⬇️ Check out my projects ⬇️</h4>
