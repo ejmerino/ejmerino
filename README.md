@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josue&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Portfolio-%E2%9C%94-brightgreen" alt="portfolio" />
-  <img src="https://img.shields.io/github/last-commit/ejmerino" alt="last commit" />
+  <img src="https://img.shields.io/github/last-commit/ejmerino/ejmerino" alt="last commit" />
   <img src="https://img.shields.io/badge/Location-Quito,%20Ecuador-%23f9a825" alt="location" />
   <img src="https://img.shields.io/badge/Software%20Engineering%20Student-%23ff8a00" alt="software engineering student" />
 </p>
