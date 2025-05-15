@@ -11,13 +11,9 @@ I am a committed and passionate student with a strong interest in cybersecurity,
 </h4>
 
 
-
-
 🇪🇨 **Student** at the [Universidad de las Fuerzas Armadas ESPE](https://www.espe.edu.ec/). 
 
-📱 **Currently working on** Mobile Applications. 
-
-🎓 **Focused on** building secure, scalable applications and gaining experience in Software Architecture.
+📱 **Currently working on** Mobile Applications, Web Development, Videogames and Cybersecurity.
 
 <div align="center">
   <img alt="stats" style="width: 48%; display: inline-block; border-radius: 8px; border: 2px solid #333;" src="https://github-readme-stats.vercel.app/api?username=ejmerino&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true"/>
